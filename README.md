@@ -13,7 +13,9 @@ Esta atividade tem como objetivo comparar dois ambientes distintos — Ubuntu De
 Conteúdo da Entrega
 
 -relatorio.pdf = Análise Ubuntu X Buildroot.pdf: Documento contendo a tabela comparativa entre os dois sistemas e uma análise crítica com mais de 500 palavras.
+
 -codigo = hello.c: Código-fonte do programa “Hello World” utilizado para testes de compilação e execução.
+
 -screenshots = Memorial descritivo Atividade 1: As capturas de tela dos comandos pedidos estão incorporadas na página 5 do memorial descritivo
 
 Observações
